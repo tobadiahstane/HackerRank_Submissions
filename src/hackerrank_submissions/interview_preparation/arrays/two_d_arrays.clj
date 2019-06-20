@@ -11,6 +11,7 @@
 ;; [0 0 1 2 4 0]]
 
 ;Sample Output
+;19
 
 (defn hourglassSum [arr]
   (let [hourglass (fn [arr1 arr2 arr3]
